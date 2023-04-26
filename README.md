@@ -13,3 +13,11 @@ git clone https://github.com/Pragam1/PingSweep
 cd PingSweep
 ```
 For Linux
+```
+1. chmod +x pingsweep.sh
+2. ./pingsweep.sh
+```
+OR
+```
+bash pingsweep.sh
+```
