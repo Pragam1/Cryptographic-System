@@ -7,17 +7,13 @@ The process of transforming regular plain text into unintelligible text and vice
 >clone via git clone
 
 ```
-git clone https://github.com/Pragam1/PingSweep
+git clone https://github.com/Pragam1/Crytographicsystem
 ```
 ```
-cd PingSweep
+cd Cryptographicsystem
 ```
 For Linux
 ```
-1. chmod +x pingsweep.sh
-2. ./pingsweep.sh
-```
-OR
-```
-bash pingsweep.sh
+1. sudo apt-get install python3
+2. python Cryptographicsystem.py
 ```
