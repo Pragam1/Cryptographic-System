@@ -1,7 +1,6 @@
 def machine():
 	keys='abcdefghijklmnopqrstuvwxyz !'
 	value = keys[-1] + keys[0:-1]
-
 	encryptDict = dict(zip(keys, value))
 	decryptDict = dict(zip(value, keys))
 
