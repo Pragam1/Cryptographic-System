@@ -1,5 +1,4 @@
 def machine():
-	
 	keys='abcdefghijklmnopqrstuvwxyz !'
 	value = keys[-1] + keys[0:-1]
 	
@@ -19,5 +18,6 @@ def machine():
 		print("Please enter a correct choice")
 
 	return newMessage.capitalize()
+	
 
 print(machine())
