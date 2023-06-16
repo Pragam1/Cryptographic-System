@@ -18,6 +18,7 @@ git clone https://github.com/Pragam1/Crytographicsystem
 ```
 cd Cryptographicsystem
 ```
+```
 For Linux
 ```
 1. sudo apt-get install python3
