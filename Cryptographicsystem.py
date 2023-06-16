@@ -1,4 +1,5 @@
 def machine():
+	
 	keys='abcdefghijklmnopqrstuvwxyz !'
 	value = keys[-1] + keys[0:-1]
 	
