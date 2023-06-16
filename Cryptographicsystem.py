@@ -19,5 +19,4 @@ def machine():
 
 	return newMessage.capitalize()
 	
-
 print(machine())
