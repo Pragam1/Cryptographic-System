@@ -7,7 +7,7 @@ Decryption-Algorithm - A decryption algorithm is a mathematical technique that g
 
 This programme accepts user input in the form of a message and prompts the user to choose whether the message should be decoded or encoded before printing the outcome on the screen.
 
-
+```
 ## Installation :
 
 >clone via git clone
